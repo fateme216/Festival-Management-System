@@ -21,5 +21,4 @@ For safe and efficient key lookup and to easily detect whether an element exists
 Using sort with lambda expressions
 To improve code readability and define custom sorting logic directly at the point of use.
 
-Using std::sort with lambda expressions
 
